@@ -3,7 +3,7 @@ import React from 'react'
 function Main() {
     return (
         <div>
-            AI RAG Chat bot
+            <h2>AI ChatBot System</h2>
         </div>
     )
 }
